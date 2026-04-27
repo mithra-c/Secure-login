@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 users.db
 users_new.db
-.env
+.envgit
